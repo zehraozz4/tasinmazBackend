@@ -1,0 +1,1 @@
+qR[C:\Users\ASUS\OneDrive\Masa√ºst√º\tasinmazYonetimi\tasinmazYonetimi\tasinmazYonetimi.csproj¢net8.0ÚCSharp12
